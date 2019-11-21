@@ -12,4 +12,4 @@ describe('UserSignupPage', () => {
       expect(header).toHaveTextContent('Sign Up');
     })
   })
-})
+});
